@@ -1,1 +1,1 @@
-Demo of on-chain verification
+// Demo of on-chain verification
